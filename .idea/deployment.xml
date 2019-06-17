@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Assignment" deleteMissingItems="true" createEmptyFolders="true">
+    <serverData>
+      <paths name="Assignment">
+        <serverdata>
+          <mappings>
+            <mapping deploy="Assignment" local="$PROJECT_DIR$/Assignment-01" web="/Assignment" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
